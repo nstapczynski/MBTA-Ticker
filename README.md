@@ -3,10 +3,14 @@ Shows the ETA at an MBTA stop
 
 
 **To Run**
-`
-wget ...
-`
+
+`wget ...`
+
+`chmod +x MBTA-Ticker`
+
 `./MBTA-ticker`
+
+
 
 
 
