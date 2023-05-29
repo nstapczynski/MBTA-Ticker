@@ -1,9 +1,9 @@
 # MBTA-Ticker
 Shows the ETA at an MBTA stop 
 
----
-**Run**
 
+**Run**
+---
 `wget ...`
 
 `chmod +x MBTA-Ticker`
@@ -14,9 +14,9 @@ Shows the ETA at an MBTA stop
 
 
 
----
-**Evaluate**
 
+**Evaluate**
+---
 Test in the sbcl
 
 `sbcl`
@@ -26,9 +26,9 @@ Test in the sbcl
 `(main 0)`
 
 
----
-**Build**
 
+**Build**
+---
 To Build an executable use buildapp (https://www.xach.com/lisp/buildapp/):
 
 `buildapp --load main.lsp --entry main --output MBTA-Ticker`
